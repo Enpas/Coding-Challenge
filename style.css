@@ -1,0 +1,160 @@
+body{
+  background-image: url(background.jpg);
+}
+
+.block-container{
+  width: 1300px;
+  margin: auto;
+  background: rgba(0,0,0,0.55);
+  color: #ffffff;
+  border-radius: 15px;
+}
+
+.container{
+  width: 1100px;
+  height: 940px;
+  margin: auto;
+}
+
+.logo{
+  width: 250px;
+  display: block;
+  margin: auto;
+  position: relative;
+  top: 120px;
+}
+
+.speciale{
+  color: #00ff00;
+  text-align: center;
+  display: block;
+  margin: auto;
+  position: relative;
+  top: 130px;
+  font-size: 35px;
+  font-style: normal;
+  font-family: sans-serif;
+}
+
+nav{
+  position: relative;
+  top: 160px;
+  text-align: center;
+  background-color: #00ff00;
+  height: 50px;
+  margin-top: -20px;
+}
+
+.speciale2{
+  position: relative;
+  bottom: -15px;
+  text-align: center;
+}
+
+.speciale3{
+  font-size: 28px;
+  font-style: normal;
+  font-family: sans-serif;
+  position: relative;
+  top: 185px;
+  color: white;
+}
+
+.speciale4{
+  position: relative;
+  top: -30px;
+  font-size: 18px;
+  font-style: normal;
+  font-family: sans-serif;
+  color: white;
+}
+
+.speciale5{
+  position: relative;
+  top: -39px;
+  font-size: 18px;
+  font-style: normal;
+  font-family: sans-serif;
+  color: white;
+}
+
+#rettangolo{
+  width: 365px;
+  height: 33px;
+  background: #DAA520;
+  position: relative;
+  bottom: 55px;
+  border-radius: 5px;
+}
+
+.speciale3{
+  font-size: 28px;
+  font-style: normal;
+  font-family: sans-serif;
+  position: relative;
+  top: 185px;
+  color: white;
+}
+
+.speciale4{
+  position: relative;
+  top: -30px;
+  font-size: 18px;
+  font-style: normal;
+  font-family: sans-serif;
+  color: white;
+}
+
+.speciale5{
+  position: relative;
+  top: -39px;
+  font-size: 18px;
+  font-style: normal;
+  font-family: sans-serif;
+  color: white;
+}
+
+#rettangolo2{
+  width: 600px;
+  height: 33px;
+  background: #00ff00;
+  position: relative;
+  bottom: 55px;
+  border-radius: 5px;
+}
+
+.speciale3{
+  font-size: 28px;
+  font-style: normal;
+  font-family: sans-serif;
+  position: relative;
+  top: 185px;
+  color: white;
+}
+
+.speciale4{
+  position: relative;
+  top: -30px;
+  font-size: 18px;
+  font-style: normal;
+  font-family: sans-serif;
+  color: white;
+}
+
+.speciale5{
+  position: relative;
+  top: -39px;
+  font-size: 18px;
+  font-style: normal;
+  font-family: sans-serif;
+  color: white;
+}
+
+#rettangolo3{
+  width: 150px;
+  height: 33px;
+  background: #B22222;
+  position: relative;
+  bottom: 55px;
+  border-radius: 5px;
+}
